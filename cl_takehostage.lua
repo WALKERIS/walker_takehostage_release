@@ -10,10 +10,22 @@
 
 local takeHostage = {
 	allowedWeapons = {
-		`WEAPON_PISTOL`,
-		`WEAPON_COMBATPISTOL`,
-		--to lazy to add more weapons
-	},
+'weapon_pistol',
+'weapon_pistol_mk2',
+'weapon_combatpistol',
+'weapon_appistol',
+'weapon_stungun',
+'weapon_pistol50',
+'weapon_snspistol',
+'weapon_snspistol_mk2',
+'weapon_heavypistol',
+'weapon_vintagepistol',
+'weapon_flaregun',
+'weapon_ceramicpistol',
+'weapon_navyrevolver',
+'weapon_gadgetpistol',
+'weapon_militarypistol'
+},
 	InProgress = false,
 	type = "",
 	targetSrc = -1,
